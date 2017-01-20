@@ -1,0 +1,11 @@
+/**
+ * Place your custom styles here.
+ */
+ 
+.navbar-header {
+  width: 100%;
+}
+
+#search-block-form {
+  margin-top: 10px;
+}
